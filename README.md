@@ -1,4 +1,4 @@
-# Learning Python Basics with the Real World Examples
+# Nauka podstaw Pythona na rzeczywistych przykładach
 This Repository is meant for Learning Python Fundamentals with the real world examples.
 It would invoke some thoughts and logic inside you to go further.
 
